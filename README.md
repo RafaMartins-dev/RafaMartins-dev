@@ -16,4 +16,5 @@
 </ul>
 
 <h3>📫 How to reach me:</h3> 
--[Linkedin](https://www.linkedin.com/in/rafael-martins-4221ab1b0/) [Gmail](mailto:rafamartins.dev@gmail.com)
+<a href="https://www.linkedin.com/in/rafael-martins-4221ab1b0/">Linkedin</a>
+<a href="mailto:rafamartins.dev@gmail.com">Linkedin</a>
