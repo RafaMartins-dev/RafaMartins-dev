@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Rafa Martins!</h1>
 
-<!--
-**RafaMartins-dev/RafaMartins-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>  About Me </h3>
+<p>
+    Hey there! <br>
+    My name is Rafael. I'm a 22-year-old  Web Developer from Rio de Janeiro, Brazil. <br>
+    I’m currently learning HTML, CSS, JavaScript, React, Node.js and looking to collaborate on Frontend projects.
+</p>
 
-Here are some ideas to get you started:
+<h3> Tech Stack</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>React</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>📫 How to reach me:</h3> 
+[![Linkedin: rafamartins](https://img.shields.io/badge/-RafaMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-martins-4221ab1b0/)](https://www.linkedin.com/in/rafael-martins-4221ab1b0/)
