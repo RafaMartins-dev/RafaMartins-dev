@@ -8,12 +8,13 @@
 </p>
 
 <h3>💻 Tech Stack</h3>
-<ul>
-  <li><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" title="HTML" width="50" height="50"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="CSS" width="50" height="50"></li>
-  <li><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" width="50" height="50"></li>
-  <li><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" title="Node.js" width="50" height="50"></li>
-  <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="ReactJS" width="50" height="50"></li>
-</ul>
+<p>
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" title="HTML" width="50" height="50"> 
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="CSS" width="50" height="50">
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" width="50" height="50">
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" title="Node.js" width="50" height="50">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="ReactJS" width="50" height="50">
+</p>
 
 <h3>📫 How to reach me:</h3> 
 <p>
