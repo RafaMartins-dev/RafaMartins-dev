@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafa!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Rafa!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
 
 <h3>😄 About Me </h3>
 <p>
