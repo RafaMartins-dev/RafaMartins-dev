@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rafa!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
 
-<h3>🧑🏻‍💻 About Me</h3>
+<h3>😄 About Me</h3>
 <p>
     Hey there! <br>
     My name is Rafael Martins. I'm a 22-year-old  Web Developer from Rio de Janeiro, Brazil. <br>
