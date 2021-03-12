@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafa!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hand waving emoji" width="25px"></h1>
+<h1 align="center">Hi, I'm Rafa!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hand waving emoji" width="25px" font-size="10px"></h1>
 
 <h3>😄 About Me</h3>
 <p>
