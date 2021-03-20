@@ -3,8 +3,8 @@
 <h3>😄 About Me</h3>
 <p>
     Hey there! <br>
-    My name is Rafael Martins. I'm a 22-year-old  Web Developer from Rio de Janeiro, Brazil. <br>
-    I’m currently learning HTML, CSS, JavaScript, React, Node.js and looking to collaborate on Frontend projects.
+    My name is Rafael Martins. I'm a 22-year-old Front-end Developer from Rio de Janeiro, Brazil. <br>
+    I’m currently learning HTML, CSS, JavaScript, React, and Node.js.
 </p>
 
 <h3>💻 Tech Stack</h3>
