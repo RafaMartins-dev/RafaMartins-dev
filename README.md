@@ -4,7 +4,7 @@
 <p>
     Hey there! <br>
     My name is Rafael Martins. I'm a 22-year-old Front-end Developer from Rio de Janeiro, Brazil. <br>
-    I’m currently learning HTML, CSS, JavaScript, React, and Node.js.
+    I'm currently learning and mastering HTML, CSS, JavaScript, React, and Node.js.
 </p>
 
 <h3>💻 Tech Stack</h3>
